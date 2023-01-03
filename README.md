@@ -1,7 +1,8 @@
 ## How to run tests
 
-1. Install package dependencies running `npm i`
-2. Run tests with command `npm test`
+1. Clone git repo locally by running `git clone https://github.com/syldouss/poker-hands-comparator.git`
+2. Install package dependencies by running `npm i` in the `poker-hands-comparator` folder (`cd poker-hands-comparator/`)
+3. Run tests with command `npm test`
 
 ## What contains the /src folder
 
