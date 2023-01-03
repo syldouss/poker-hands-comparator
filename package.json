@@ -1,0 +1,32 @@
+{
+  "name": "poker-hand-comparator",
+  "version": "1.0.0",
+  "description": "tools to compare poker hands",
+  "main": "src/PokerHand.js",
+  "scripts": {
+    "test": "mocha",
+    "test-watch": "mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syldouss/poker-hands-comparator.git"
+  },
+  "keywords": [
+    "poker",
+    "hands",
+    "cards"
+  ],
+  "author": "sdousset",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syldouss/poker-hands-comparator/issues"
+  },
+  "homepage": "https://github.com/syldouss/poker-hands-comparator/test/how-to-run-tests.md",
+  "type": "module",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "eslint": "^8.31.0",
+    "mocha": "^10.2.0",
+    "prettier": "2.8.1"
+  }
+}
